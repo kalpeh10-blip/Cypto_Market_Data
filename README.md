@@ -52,6 +52,7 @@ Top cryptocurrencies by market capitalization
 Comparative performance analysis
 
 6. Screenshots / Demos
+Example: ![Dashboard Preview](https://github.com/kalpeh10-blip/Cypto_Market_Data/blob/main/Snapshot%20of%20Cypto%20Dashboard.png)
 
    
 
