@@ -2,18 +2,25 @@
 Recommended Structure and Order
 
 1. Project Title / Headline
+   
 Cryptocurrency Market Analysis Dashboard using Power BI, SQL & Python
 
+
 2. Short Description / Purpose
+
 This project analyzes cryptocurrency market trends including price movements, market capitalization, and trading volume. The dashboard enables users to track the performance of various cryptocurrencies, identify trends, and support data-driven decision-making.
 
+
 3. Tech Stack
+
 Power BI – Data visualization and dashboard creation
 SQL – Data extraction and transformation
 Python (Pandas) – Data cleaning and preprocessing
 DAX – Calculated measures and KPIs
 
+
 4. Data Source
+
 Cryptocurrency market dataset sourced from platforms such as CoinMarketCap or CoinGecko (CSV/API)
 Includes fields like:
 Coin name
