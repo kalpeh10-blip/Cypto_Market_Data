@@ -1,62 +1,64 @@
 # Cypto_Market_Data
 Recommended Structure and Order
 
-1. Project Title / Headline
-   
+📊 1. Project Title / Headline
+
 Cryptocurrency Market Analysis Dashboard using Power BI, SQL & Python
 
 
-2. Short Description / Purpose
+📄 2. Short Description / Purpose
 
-This project analyzes cryptocurrency market trends including price movements, market capitalization, and trading volume. The dashboard enables users to track the performance of various cryptocurrencies, identify trends, and support data-driven decision-making.
-
-
-3. Tech Stack
-
-Power BI – Data visualization and dashboard creation
-SQL – Data extraction and transformation
-Python (Pandas) – Data cleaning and preprocessing
-DAX – Calculated measures and KPIs
+This project analyzes cryptocurrency market trends including price movements, market capitalization, and trading volume. The dashboard helps users track performance of different cryptocurrencies, identify trends, and support data-driven investment insights.
 
 
-4. Data Source
+⚙️ 3. Tech Stack
 
-Cryptocurrency market dataset sourced from platforms such as CoinMarketCap or CoinGecko (CSV/API)
-Includes fields like:
+Power BI → Data visualization & dashboard creation
+SQL → Data extraction and transformation (if connected to DB/API staging)
+Python (Pandas) → Data cleaning, preprocessing, and optional analysis
+DAX → Calculated measures (e.g., market cap, growth %, ranking)
+
+📂 4. Data Source
+
+Cryptocurrency market dataset (likely from API or CSV such as CoinMarketCap / CoinGecko export)
+Contains:
 Coin name
 Price
-Market capitalization
-Trading volume
-Date/time
+Market Cap
+Volume
+Date/time trends
 
-5. Features / Highlights
 
-Market Insights
+⭐ 5. Features / Highlights
 
-Analysis of historical price trends
-Comparison of market capitalization across cryptocurrencies
+📈 Market Insights
 
-Interactive Dashboard
+Real-time / historical price trend analysis
+Market capitalization comparison across cryptocurrencies
 
-Filters for cryptocurrency selection and time period
-Drill-down and interactive visuals
+📊 Interactive Dashboard
 
-Key Metrics (KPIs)
+Filters for:
+Cryptocurrency selection
+Time period
+Drill-down capabilities
 
-Total market capitalization
-Average price
-Trading volume
-Top-performing cryptocurrencies
+🧮 Key Metrics (KPIs)
 
-Trend Analysis
+Total Market Cap
+Average Price
+Volume traded
+Top performing coins
 
-Time-series analysis of price movements
+📉 Trend Analysis
+
+Price movement over time (line charts)
 Volatility tracking
 
-Ranking and Comparison
+🏆 Ranking & Comparison
 
-Top cryptocurrencies by market capitalization
-Comparative performance analysis
+Top N cryptocurrencies by market cap
+Performance comparison between coins
 
 6. Screenshots / Demos
 
